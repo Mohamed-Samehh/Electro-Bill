@@ -1,0 +1,20 @@
+IDE Used: Apache NetBeans
+Database Server Used: Wamp (PhpMyAdmin)
+
+Steps:
+
+- In PhpMyAdmin:
+1- Run Wamp and go to PhpMyAdmin.
+2- Enter username "root" and leave the password empty.
+3- Create Database in PhpMyAdmin called "se_db".
+4- Click on import and choose the file in folder "DB" called "se_db".
+
+- In NetBeans:
+1- Open the Java file from NetBeans.
+2- Go to Project Properties and go to "Libraries".
+3- Click on "Add JAR/Folder".
+4- Choose "mysql-connector-java-8.0.15" in folder "DB".
+
+- To open the built JAR File:
+1- Open "Electro_Bill" and go to "dist".
+2- Click on "Electro_Bill" and run the file.
