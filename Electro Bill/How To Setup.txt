@@ -7,7 +7,7 @@ Steps:
 1- Run Wamp and go to PhpMyAdmin.
 2- Enter username "root" and leave the password empty.
 3- Create Database in PhpMyAdmin called "se_db".
-4- Click on import and choose the file in folder "DB" called "se_db".
+4- Click on import and choose the file in folder "DB" called "se_db.sql".
 
 - In NetBeans:
 1- Open the Java file from NetBeans.
