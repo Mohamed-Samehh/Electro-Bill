@@ -10,9 +10,6 @@ Purpose
   - Appointment scheduling for services like meter readings or repairs
   - Feedback collection to improve service
 
-Architecture
-- The project uses the Model-View-Controller (MVC) architectural pattern, which separates data handling, user interfaces, and control logic to enhance code organization:
-
 Model
 - Includes data-related logic with classes such as User, Client, Bill, and Appointment, managing data interactions and ensuring robust database connectivity.
 
