@@ -15,23 +15,23 @@ The primary goal of this system is to offer a comprehensive solution for electri
 
 ## Model
 
-Includes data-related logic with classes such as `User`, `Client`, `Bill`, and `Appointment`, managing data interactions and ensuring robust database connectivity.
+Includes data-related logic with classes such as `"User"`, `"Client"`, `"Bill"`, and `"Appointment"`, managing data interactions and ensuring robust database connectivity.
 
 ## View
 
 Responsible for the graphical interface, providing tailored interfaces for different user roles:
 
-- `AdminUI`
-- `ManagerUI`
-- `TechnicianUI`
-- `ClientUI`
+- `"AdminUI"`
+- `"ManagerUI"`
+- `"TechnicianUI"`
+- `"ClientUI"`
 
 ## Controller
 
 Handles business logic, responding to user inputs and updating models. Key controllers include:
 
-- `Login` - Manages user authentication
-- `Signup` - Handles user registration
+- `"Login"` - Manages user authentication
+- `"Signup"` - Handles user registration
 - Controllers for managing user interactions, bill processing, and payment functionalities
 
 ## Key Features
