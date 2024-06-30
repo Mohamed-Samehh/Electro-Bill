@@ -15,7 +15,7 @@ The primary goal of this system is to offer a comprehensive solution for electri
 
 ## Model
 
-Includes data-related logic with classes such as `"User"`, `"Client"`, `"Bill"`, and `"Appointment"`, managing data interactions and ensuring robust database connectivity.
+Includes data-related logic with classes such as `"Technician"`, `"Client"`, `"Bill"`, `"Appointment"`, etc., managing data interactions and ensuring robust database connectivity.
 
 ## View
 
