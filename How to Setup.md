@@ -36,4 +36,4 @@
    - Open `"Electro_Bill"` and go to `"dist"`.
 
 2. **Run the JAR File:**
-   - Click on `"Electro_Bill"` and run the file.
+   - Click on `"Electro_Bill.jar"` and run the file.
