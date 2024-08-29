@@ -2,7 +2,7 @@
 
 ## Overview
 
-Electro Bill is a Java-based application for electricity bill payment designed to enhance the management of electricity bill payments, user interactions, and service appointments. It serves utility companies and consumers needing efficient management of billing processes, enhancing operational efficiency and customer satisfaction.
+Electro Bill is a Java-based application designed to enhance the management of electricity bill payments, user interactions, and service appointments. It connects to a MySQL database to ensure efficient management of billing processes and improves operational efficiency and customer satisfaction for utility companies and consumers.
 
 ## Purpose
 
@@ -15,7 +15,7 @@ The primary goal of this system is to offer a comprehensive solution for electri
 
 ## Model
 
-Includes data-related logic with classes such as `"Technician"`, `"Client"`, `"Bill"`, `"Appointment"`, etc. , managing data interactions and ensuring robust database connectivity.
+Includes data-related logic with classes such as `"Technician"`, `"Client"`, `"Bill"`, `"Appointment"`, etc. , which manage data interactions and ensure robust database connectivity through MySQL.
 
 ## View
 
